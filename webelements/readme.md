@@ -1,6 +1,6 @@
 <table width=100% border=0>
 <tr ><td colspan=2><h1>webElements</h1></td></tr>
-<tr><td>&nbsp;A Crystal Reports Function Suite</td>
+<tr><td>&nbsp;A Crystal Reports Function Library</td>
 </table>
 
 ### Description
