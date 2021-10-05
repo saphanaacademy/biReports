@@ -3,8 +3,6 @@
 <tr><td>&nbsp;A Crystal Reports Function Library</td>
 </table>
 
-![wepic](/webelements/admin/Picture4.png)
-
 ### Description
 
 This repo is for the webElements function library for Crystal Reports. 
@@ -12,7 +10,7 @@ This repo is for the webElements function library for Crystal Reports.
 ### Note
 
 This is currently a beta / test version for CR 2016 & SAP BI 4.2.  Please thoroughly test on a development environment before adding to any production reports.
-
-
+<br><br>
+![wepic](/webelements/admin/Picture4.png)
 
 
