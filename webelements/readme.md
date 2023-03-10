@@ -12,5 +12,5 @@ This repo is for the webElements function library for Crystal Reports.
 This is currently a beta / test version for CR 2016 & SAP BI 4.2.  Please thoroughly test on a development environment before adding to any production reports.
 <br><br>
 ![wepic](/webelements/admin/Picture4.png)
-
-
+<br><br>
+![wepic](/webelements/admin/ytycomp_65821.jpg)
