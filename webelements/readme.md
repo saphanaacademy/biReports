@@ -5,7 +5,7 @@
 
 ### Description
 
-This repo is for the webElements function library for Crystal Reports. 
+This repo is for the webElements function library for Crystal Reports. As these are Crystal Reports Custom Functions, they are open source and free.
 
 ### Note
 
