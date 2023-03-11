@@ -7,7 +7,7 @@
 
 This repo is for the webElements function library for Crystal Reports. As these are Crystal Reports Custom Functions, they are open source and free. 
 
-### Note
+### Notes
 
 This is currently a beta / test version for CR 2016 & SAP BI 4.2.  Please thoroughly test on a development environment before adding to any production reports. Download the [latest version here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElementsMasterReport430_20230125.rpt)  A User Guide (needs updates) is available [here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElements%20User%20Guide%20247.pdf)
 <br><br>
