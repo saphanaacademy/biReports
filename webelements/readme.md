@@ -13,7 +13,7 @@ This repo is for the webElements function library for Crystal Reports. This libr
 1. Please thoroughly test on a development environment before adding to any production reports. 
 1. You can download the [latest version of webElements here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElementsMasterReport430_20230125.rpt)  
 1. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](https://github.com/saphanaacademy/biReports/blob/master/webelements/admin/passthroughhtml.md).
-2. A User Guide (is being updated) is available [here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElements%20User%20Guide%20247.pdf)
+2. A User Guide (is being updated) is available [here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElements%20User%20Guide%20430.pdf)
 <br><br>
 ![wepic](/webelements/admin/Picture4.png)
 <br><br>
