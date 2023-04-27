@@ -15,6 +15,6 @@ This repo is for the webElements Custom Function library for Crystal Reports. Th
 1. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](https://github.com/saphanaacademy/biReports/blob/master/webelements/admin/passthroughhtml.md).
 2. A User Guide (which is being updated) is available [here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElements%20User%20Guide%20430.pdf)
 <br><br>
-![wepic](/webelements/admin/Picture4.png)
+![wepic](/webelements/admin/ppsm.jpg)
 <br><br>
 ![wepic](/webelements/admin/ytycomp_65821.jpg)
