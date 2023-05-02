@@ -3,11 +3,29 @@
 <tr><td>&nbsp;A Custom Function Library for Crystal Reports</td>
 </table>
 
-### Description
+## Description
 
 This repo is for the webElements Custom Function library for Crystal Reports. This library allows a report writer to add web controls to a report file to create custom prompt / parameter dialogues. As these are Crystal Reports Custom Functions, they are open source and free. 
+<br><br>
+![wepic](/webelements/admin/ppsm.jpg)
+### webElements allows report developers to
 
-### Notes
+1. Embed web controls into a Crystal report.
+1. Develop a custom prompt page to target Crystal Reports.
+1. Develop an interface to provide additional interaction with data such as write-backs to the database via target reports using a stored procedure.
+1. Create a reporting jump page or navigation page.
+1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
+1. Create interactive dashboard style reports.
+
+### webElements has the following advantages:
+
+1. It’s free.
+1. No additional web pages are required…only the .rpt file.
+1. No additional personnel are required…just the report developer.
+1. No additional tools (i.e. software packages) are required.
+1. No HTML programming knowledge is required.
+
+## Notes
 
 1. This is currently a beta / test version for CR 2020 & SAP BI 4.3.  
 1. Please thoroughly test on a development environment before adding to any production reports. 
