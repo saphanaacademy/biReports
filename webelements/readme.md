@@ -6,8 +6,8 @@
 ## Description
 
 This repo is for the webElements Custom Function library for Crystal Reports. This library allows a report writer to add web controls to a report file to create custom prompt / parameter dialogues. As these are Crystal Reports Custom Functions, they are open source and free. 
+<br>
 
-<br><br>
 ![wepic](/webelements/admin/ppsm.jpg)
 
 ### webElements allows report developers to
@@ -35,5 +35,5 @@ This repo is for the webElements Custom Function library for Crystal Reports. Th
 1. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](https://github.com/saphanaacademy/biReports/blob/master/webelements/admin/passthroughhtml.md).
 2. A User Guide (which is being updated) is available [here.](https://github.com/saphanaacademy/biReports/blob/master/webelements/webElements%20User%20Guide%20430.pdf)
 
-<br><br>
+<br>
 ![wepic](/webelements/admin/ytycomp_65821.jpg)
