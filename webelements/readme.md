@@ -37,8 +37,4 @@ This repo is for the webElements Custom Function library for Crystal Reports on 
 
 <br>
 
-![wepic](/webelements/admin/ytycomp_65821.jpg)
-
-<br>
-
 ![wepic](/webelements/admin/db.jpg)
