@@ -10,7 +10,7 @@ This repo is for the webElements Custom Function library for Crystal Reports on 
 
 ![wepic](/webelements/admin/ppsm.jpg)
 
-### webElements allows report developers to
+### webElements Helps Report Developers To:
 
 1. Embed web controls into a Crystal report.
 1. Develop a custom prompt page to target Crystal Reports.
@@ -19,7 +19,7 @@ This repo is for the webElements Custom Function library for Crystal Reports on 
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
 1. Create interactive dashboard style reports.
 
-### webElements has the following advantages:
+### webElements Has the Following Advantages:
 
 1. It’s free.
 1. No additional web pages are required…only the .rpt file.
