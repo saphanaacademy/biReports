@@ -5,7 +5,7 @@
 
 ## Description
 
-This repo is for the webElements Custom Function library for Crystal Reports. This library allows a report writer to add web controls to a report file to create custom prompt / parameter dialogues. As these are Crystal Reports Custom Functions, they are open source and free. 
+This repo is for the webElements Custom Function library for Crystal Reports on SAP BI / BusinessObjects Enterprise / Crystal Reports Server 4.3. This library allows a report writer to add web controls to a report file to create custom prompt / parameter dialogues. As these are Crystal Reports Custom Functions, they are open source and free. 
 <br>
 
 ![wepic](/webelements/admin/ppsm.jpg)
